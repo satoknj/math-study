@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '=== 学習進捗 ==='; grep -E '\\[x\\]|\\[ \\]' ./ROADMAP.md | head -20; echo ''; echo '=== 学習ログ（直近） ==='; tail -10 ./STUDY_LOG.md",
+            "statusMessage": "学習進捗を確認中..."
+          }
+        ]
+      }
+    ]
+  }
+}
