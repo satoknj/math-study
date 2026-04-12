@@ -27,7 +27,7 @@ LLM の理解
 
 | # | タイトル | ファイル | 状態 |
 |---|---|---|---|
-| 1 | ベクトル | `phase1_linear_algebra/01_vectors.md` | [x] |
+| 1 | ベクトルとベクトル空間 | `phase1_linear_algebra/01_vectors/00_index.md` | [x] |
 | 2 | 行列と線形写像 | `phase1_linear_algebra/02_matrices.md` | [ ] |
 | 3 | 連立方程式とガウス消去法 | `phase1_linear_algebra/03_gaussian_elimination.md` | [ ] |
 | 4 | 内積・ノルム・直交性 | `phase1_linear_algebra/04_inner_product.md` | [ ] |
